@@ -1,0 +1,16 @@
+{
+  "name": "shopping_cart",
+  "version": "1.0.0",
+  "description": "Shopping Cart ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shubham Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.12"
+  }
+}
