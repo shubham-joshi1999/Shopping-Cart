@@ -8,4 +8,9 @@ The screenshots below show how the web-app looks like-:
 
 Homepage
 
+![Homepage](https://user-images.githubusercontent.com/51970199/61996431-d9b92400-b0b1-11e9-8eef-5d8a122fd3d2.PNG)
+
+Adding Products to the Cart-:
+
+![add_products](https://user-images.githubusercontent.com/51970199/61996540-eee28280-b0b2-11e9-9a35-aaba627c1942.PNG)
 
