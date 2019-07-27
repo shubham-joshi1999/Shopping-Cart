@@ -7,3 +7,5 @@ like its manufacturer, price etc. The shop owner can add products to the cart as
 The screenshots below show how the web-app looks like-:
 
 Homepage
+
+
